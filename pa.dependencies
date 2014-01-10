@@ -1,15 +1,15 @@
 [
     {
-        "repository":   "android_device_samsung_d2-common",
+        "repository":   "HFOSP/android_device_samsung_d2-common",
         "target_path":  "device/samsung/d2-common"
     },
     {
-        "repository":   "android_device_samsung_d2tmo",
+        "repository":   "HFOSP/android_device_samsung_d2tmo",
         "target_path":  "device/samsung/d2tmo"
     },
     {
         "remote":       "cm",
-        "repository":   "CyanogenMod/android_kernel_samsung_d2",
+        "repository":   "TeamHellfire/android_kernel_samsung_d2",
         "target_path":  "kernel/samsung/d2",
         "revision":     "cm-11.0"
     },
@@ -75,7 +75,7 @@
     },
     {
         "remote":       "cm",
-        "repository":   "CyanogenMod/android_hardware_qcom_audio-caf",
+        "repository":   "TeamHellfire/android_hardware_qcom_audio-caf",
         "target_path":  "hardware/qcom/audio-caf",
         "revision":     "cm-11.0"
     },
